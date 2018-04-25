@@ -17,3 +17,5 @@ example.exe
 example_x64.exe
 assets/
 .vs/
+exe/out/
+exe/out_example/
